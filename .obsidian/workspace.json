@@ -64,6 +64,42 @@
             }
           },
           {
+            "id": "4c740b65d40de8e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "loss functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98fa30643b119724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "squeching function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0ec9d44a5eed165",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "neural network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ccd5dd27b5082118",
             "type": "leaf",
             "state": {
@@ -88,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -154,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "caculus.md",
+                "file": "neural network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "caculus.md",
+                "file": "neural network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "caculus.md"
+                "file": "neural network.md"
               }
             }
           }
@@ -215,21 +251,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b4987cb26569798",
+  "active": "e0ec9d44a5eed165",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240102161733.png",
+    "Attachments/Pasted image 20240102161512.png",
+    "Attachments/Pasted image 20240102161436.png",
+    "Attachments/Pasted image 20240102153621.png",
+    "Attachments/Pasted image 20240102151607.png",
+    "loss functions.md",
+    "neural network.md",
+    "Attachments/Pasted image 20240102150027.png",
+    "Attachments/Pasted image 20240102145804.png",
+    "Attachments/Pasted image 20240102145625.png",
+    "squeching function.md",
+    "Attachments/Pasted image 20240102145301.png",
+    "caculus.md",
     "Attachments/Pasted image 20231230022120.png",
     "Attachments/Pasted image 20231230021359.png",
-    "Attachments/Pasted image 20231230021241.png",
-    "Attachments/Pasted image 20231230014233.png",
-    "Attachments/Pasted image 20231230010125.png",
-    "Attachments/Pasted image 20231230010003.png",
-    "Attachments/Pasted image 20231229220724.png",
-    "Attachments/Pasted image 20231229220310.png",
-    "Attachments/Pasted image 20231229215947.png",
-    "Attachments/Pasted image 20231229214921.png",
-    "Attachments/Pasted image 20231229213557.png",
     "basics.md",
-    "caculus.md",
     "linear algebra.md",
     "math.md",
     "general math.md",
