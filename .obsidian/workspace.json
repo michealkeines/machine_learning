@@ -8,123 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2dcacc0616141ab6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "693bcd6bf3431938",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "math.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09de7b6be8d5f564",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "math.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3399217b372da1a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b4987cb26569798",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "caculus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c740b65d40de8e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "loss functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98fa30643b119724",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "squeching function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e0ec9d44a5eed165",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccd5dd27b5082118",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3cde969fe0778e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "regression.md",
+                "file": "gradiant desent.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural network.md",
+                "file": "gradiant desent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural network.md",
+                "file": "gradiant desent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural network.md"
+                "file": "gradiant desent.md"
               }
             }
           }
@@ -253,24 +148,25 @@
   },
   "active": "e0ec9d44a5eed165",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20240102161733.png",
-    "Attachments/Pasted image 20240102161512.png",
-    "Attachments/Pasted image 20240102161436.png",
-    "Attachments/Pasted image 20240102153621.png",
-    "Attachments/Pasted image 20240102151607.png",
-    "loss functions.md",
+    "Attachments/Pasted image 20240106160326.png",
+    "Attachments/Pasted image 20240106160224.png",
+    "Attachments/Pasted image 20240106143512.png",
+    "Attachments/Pasted image 20240106143426.png",
+    "Attachments/Pasted image 20240106143316.png",
+    "Attachments/Pasted image 20240106142900.png",
+    "Attachments/Pasted image 20240106142609.png",
+    "Attachments/Pasted image 20240106142351.png",
+    "Attachments/Pasted image 20240106141700.png",
+    "Attachments/Pasted image 20240106141504.png",
+    "Attachments/Pasted image 20240106141349.png",
     "neural network.md",
-    "Attachments/Pasted image 20240102150027.png",
-    "Attachments/Pasted image 20240102145804.png",
-    "Attachments/Pasted image 20240102145625.png",
     "squeching function.md",
-    "Attachments/Pasted image 20240102145301.png",
+    "loss functions.md",
     "caculus.md",
-    "Attachments/Pasted image 20231230022120.png",
-    "Attachments/Pasted image 20231230021359.png",
     "basics.md",
-    "linear algebra.md",
     "math.md",
+    "gradiant desent.md",
+    "linear algebra.md",
     "general math.md",
     "regression.md",
     "labs/regression/Untitled.ipynb",
