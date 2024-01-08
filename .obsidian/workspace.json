@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gradiant desent.md",
+                "file": "neural network.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gradiant desent.md",
+                "file": "neural network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gradiant desent.md",
+                "file": "neural network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gradiant desent.md"
+                "file": "neural network.md"
               }
             }
           }
@@ -148,25 +148,25 @@
   },
   "active": "e0ec9d44a5eed165",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20240106160326.png",
-    "Attachments/Pasted image 20240106160224.png",
-    "Attachments/Pasted image 20240106143512.png",
-    "Attachments/Pasted image 20240106143426.png",
-    "Attachments/Pasted image 20240106143316.png",
-    "Attachments/Pasted image 20240106142900.png",
-    "Attachments/Pasted image 20240106142609.png",
-    "Attachments/Pasted image 20240106142351.png",
-    "Attachments/Pasted image 20240106141700.png",
-    "Attachments/Pasted image 20240106141504.png",
-    "Attachments/Pasted image 20240106141349.png",
+    "Attachments/Pasted image 20240108163501.png",
+    "Attachments/Pasted image 20240108163420.png",
+    "Attachments/Pasted image 20240108161441.png",
+    "Attachments/Pasted image 20240108161433.png",
+    "Attachments/Pasted image 20240108160947.png",
+    "Attachments/Pasted image 20240108160852.png",
+    "Attachments/Pasted image 20240108152808.png",
+    "Attachments/Pasted image 20240108152020.png",
+    "Attachments/Pasted image 20240108151828.png",
+    "linear algebra.md",
+    "caculus.md",
+    "Attachments/Pasted image 20240108151545.png",
+    "Attachments/Pasted image 20240108151216.png",
+    "basics.md",
+    "gradiant desent.md",
     "neural network.md",
     "squeching function.md",
     "loss functions.md",
-    "caculus.md",
-    "basics.md",
     "math.md",
-    "gradiant desent.md",
-    "linear algebra.md",
     "general math.md",
     "regression.md",
     "labs/regression/Untitled.ipynb",

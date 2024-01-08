@@ -62,6 +62,29 @@ if we have function that is not a polynomical, using that will be hard
 
 so we have to find polynomicall funtion that forms the samw curve for certain limits
 
+![[Pasted image 20240108151040.png]]
+
+we have three unknown, const (c0), c1, c2
+
+
+const = will match output of the polynomicall funtion we are trying to match for a give point eg, 0
+
+c1 = will match the derviate of the polynomical function we are tryiing to match for a given point
+
+c2 = will match the second derviate
+
+this way we can mimic the polynomical funtion around a point using quadratic equations
+
+eg
+
+cos(x) is our polynomical function
+
+1 - 1/2x^2 is the 2 derviate qudratic equation that can mimic cos(x)
+
+we can add more dervates to imporve the over all equation
+
+![[Pasted image 20240108151545.png]]
+
 this is done using talyors equations
 
 ![[Pasted image 20231230021241.png]]

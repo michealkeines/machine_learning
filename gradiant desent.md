@@ -46,3 +46,10 @@ so if we are
 
 ![[Pasted image 20240106160326.png]]
 
+
+convex funtion have one one miniman, the global minima
+
+but non convex function can have multiple local minima
+
+![[Pasted image 20240108145856.png]]
+
