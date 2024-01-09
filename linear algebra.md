@@ -444,3 +444,51 @@ this is how is is calculted
 ![[Pasted image 20231225201307.png]]
 
 
+![[Pasted image 20240109161828.png]]
+
+![[Pasted image 20240109162112.png]]
+
+![[Pasted image 20240109162237.png]]
+
+Principal Component Analysis
+
+![[Pasted image 20240109164852.png]]
+
+we want measure the spread of these numbers
+
+![[Pasted image 20240109165234.png]]
+
+that is to sum every points and divide it by total count
+
+![[Pasted image 20240109165446.png]]
+
+now found the average distance of point from the mean
+
+this method of taking mean and then average from the mean is called the variance
+
+![[Pasted image 20240109170556.png]]
+
+we just take mean for both point that forms a vector respect ot the mean vector
+
+![[Pasted image 20240109170722.png]]
+
+but then we have many possible lines that can pass through that mean vector
+
+![[Pasted image 20240109173248.png]]
+
+![[Pasted image 20240109173331.png]]
+
+![[Pasted image 20240109173230.png]]
+
+for higher dimensions
+
+![[Pasted image 20240109173408.png]]
+
+![[Pasted image 20240109173510.png]]
+
+![[Pasted image 20240109173802.png]]
+
+![[Pasted image 20240109173929.png]]
+
+
+
