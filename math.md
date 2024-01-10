@@ -1,7 +1,7 @@
 
 matrix vector multiplication
 
-if we multiple two similar feature vectors, we will get a big product value
+if we multiple two similar feature vectors, we will get a big product values
 
 if we multiply two not so similar feature vectors, we will get product less or new to zero value
 
