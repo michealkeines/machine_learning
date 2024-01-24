@@ -491,4 +491,14 @@ for higher dimensions
 ![[Pasted image 20240109173929.png]]
 
 
+Singular Value Decomposition
+
+
+based on some assumptions, we can use this method to solve linear equations without taking inverse
+
+![[Pasted image 20240124165003.png]]
+
+![[Pasted image 20240124165237.png]]
+
+![[Pasted image 20240124165302.png]]
 

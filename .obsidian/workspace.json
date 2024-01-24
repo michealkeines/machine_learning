@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f17ac0a7d35aba44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linear algebra.md",
+                "file": "Probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linear algebra.md",
+                "file": "Probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linear algebra.md"
+                "file": "Probability.md"
               }
             }
           }
@@ -146,8 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0ec9d44a5eed165",
+  "active": "f17ac0a7d35aba44",
   "lastOpenFiles": [
+    "linear algebra.md",
+    "Probability.md",
+    "Attachments/Pasted image 20240124165302.png",
+    "Attachments/Pasted image 20240124165237.png",
+    "Attachments/Pasted image 20240124165003.png",
     "Attachments/Pasted image 20240109173929.png",
     "Attachments/Pasted image 20240109173802.png",
     "Attachments/Pasted image 20240109173510.png",
@@ -155,12 +173,7 @@
     "Attachments/Pasted image 20240109173331.png",
     "Attachments/Pasted image 20240109173248.png",
     "Attachments/Pasted image 20240109173230.png",
-    "Attachments/Pasted image 20240109170938.png",
-    "Attachments/Pasted image 20240109170722.png",
-    "Attachments/Pasted image 20240109170556.png",
-    "Attachments/Pasted image 20240109165446.png",
     "neural network.md",
-    "linear algebra.md",
     "caculus.md",
     "basics.md",
     "gradiant desent.md",
