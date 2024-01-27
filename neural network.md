@@ -88,3 +88,5 @@ A function that curves upwards everywhere is always going to lie above its tange
 
 
 ![[Pasted image 20240108163501.png]]
+
+

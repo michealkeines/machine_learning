@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability.md",
+                "file": "neural network.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability.md",
+                "file": "neural network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability.md",
+                "file": "neural network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability.md"
+                "file": "neural network.md"
               }
             }
           }
@@ -161,19 +161,18 @@
   },
   "active": "f17ac0a7d35aba44",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20240126183312.png",
-    "Attachments/Pasted image 20240126183309.png",
-    "Attachments/Pasted image 20240126182446.png",
-    "Attachments/Pasted image 20240126181929.png",
-    "Attachments/Pasted image 20240126181642.png",
-    "Attachments/Pasted image 20240126175908.png",
-    "Attachments/Pasted image 20240124185241.png",
-    "Attachments/Pasted image 20240124184724.png",
-    "Attachments/Pasted image 20240124182625.png",
-    "Attachments/Pasted image 20240124182558.png",
-    "Attachments/Pasted image 20240124182323.png",
-    "linear algebra.md",
     "Probability.md",
+    "Attachments/Pasted image 20240127172636.png",
+    "Attachments/Pasted image 20240127172451.png",
+    "Attachments/Pasted image 20240127172028.png",
+    "Attachments/Pasted image 20240127171346.png",
+    "Attachments/Pasted image 20240127171336.png",
+    "Attachments/Pasted image 20240127171319.png",
+    "Attachments/Pasted image 20240127171256.png",
+    "Attachments/Pasted image 20240127164219.png",
+    "Attachments/Pasted image 20240127163925.png",
+    "Attachments/Pasted image 20240126183312.png",
+    "linear algebra.md",
     "neural network.md",
     "caculus.md",
     "basics.md",

@@ -52,3 +52,26 @@ We will call p(cancer) = P(A), and the P(positive test) = P(B). We want to know 
  
 Using Bayes’ theorem, we calculate that the likelihood that a woman has breast cancer, given a positive test equals approximately 0.10. This makes intuitive sense as (1) this result is greater than 1% (the percent of breast cancer in the general public).
 ```
+
+
+The concept of entropy attempts to quantify this notion about uncertainty associated with a chancy event
+
+Entropy captures this notion of uncertainty in a system.
+
+![[Pasted image 20240127163925.png]]
+
+![[Pasted image 20240127164219.png]]
+
+![[Pasted image 20240127171256.png]]
+
+![[Pasted image 20240127171319.png]]
+
+![[Pasted image 20240127171346.png]]
+
+![[Pasted image 20240127172028.png]]
+
+![[Pasted image 20240127172451.png]]
+
+![[Pasted image 20240127172636.png]]
+
+
