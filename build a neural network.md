@@ -44,6 +44,13 @@ def perceptron(x, w, b):
 
 and_f = perceptron(torch.tensor([[1,1]]), torch.tensor([[1, 1]]), torch.tensor([-1.5]))
 print(and_f)
+
+                         0 0 = 0
+                         0 1 = 0                         
+                         1 0 = 0
+                         1 1 = 1
+
+
            
 ```
 
@@ -51,4 +58,45 @@ print(and_f)
 ![[Pasted image 20240209183737.png]]
 
 
+xor needs two perceptrons
+
+![[Pasted image 20240211135109.png]]
+
+![[Pasted image 20240211135048.png]]
+
+Layering multiple perceptrons into a network is called multi layer perceptron.
+
+![[Pasted image 20240212145016.png]]
+
+
+
+but the thing is step functions are not differentiable
+
+
+
+we want something that can mimci step function also differntiable
+
+sigmoid function is the best alternative
+
+![[Pasted image 20240212150700.png]]
+
+it is the S curve
+
+![[Pasted image 20240212150722.png]]
+
+![[Pasted image 20240212150925.png]]
+
+![[Pasted image 20240212151323.png]]
+
+![[Pasted image 20240212152126.png]]
+
+weights are specific to this layer, a(l-1) is the output of the previous layer
+
+if every perceptron from the previous layer is connected to every perceptron in the next layer, such a layer is known as fully connected layer.
+
+![[Pasted image 20240212160843.png]]
+
+if we start from the layer 0 and keep pushing inward, we call it forward propagation
+
+at a given time only current and previous layer will be in the memory
 
