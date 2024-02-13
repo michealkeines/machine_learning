@@ -100,3 +100,50 @@ if we start from the layer 0 and keep pushing inward, we call it forward propaga
 
 at a given time only current and previous layer will be in the memory
 
+ground truth, is the actual output we are excpeted, 
+
+![[Pasted image 20240213133424.png]]
+
+Loss and Its Minimization
+
+![[Pasted image 20240213134057.png]]
+
+![[Pasted image 20240213134258.png]]
+
+
+![[Pasted image 20240213134443.png]]
+
+
+![[Pasted image 20240213134502.png]]
+
+forward propagation for arbitrary layer
+
+![[Pasted image 20240213164721.png]]
+
+this will be last output of the layers as we calculate it one after the other
+
+with every forward movement, the output from the previous layer is used to caculate the current value
+
+after the final layer, the loss is calculated base on final layers output and ground truth for that particular training instance
+
+![[Pasted image 20240213165622.png]]
+
+
+
+if we go from layer 0 to layer n - forward pass
+
+if we go from layer n to layer 0 - back progagation
+
+
+gradiant descent is just we have loss equation, with variable that can be manipulated
+
+if loss output = 10 and ground truth is 15
+
+so to change the value of the variables, we cant just subtract the total 5, as all the variables combine to give output 10, they are interdepending, so we need a way to find the poper minium value that we can subtract that will reduce the over loss ouput closer to ground truth
+
+if we have function it can be plotted and 
+
+and all the variabe come into place in that curve, so if we want to find the change in loss after reducing by some value, we need to take derivate of it, but we can change the variables indiviually, so we can use partial derviate to find the change per variable, and change will be minium if we go along the slope, this is what we do in gradiant disant
+
+![[Pasted image 20240213181212.png]]
+
