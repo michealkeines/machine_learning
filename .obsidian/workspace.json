@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "daf15d4e771ae740",
+            "id": "dcac0339214ed5d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "build a neural network.md",
+                "file": "gradiant desent.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "build a neural network.md",
+                "file": "gradiant desent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "build a neural network.md",
+                "file": "gradiant desent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "build a neural network.md"
+                "file": "gradiant desent.md"
               }
             }
           }
@@ -146,12 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "daf15d4e771ae740",
+  "active": "dcac0339214ed5d8",
   "lastOpenFiles": [
+    "rust/and-gate/target/debug/deps/and_gate-27f871e142f917ac",
+    "rust/and-gate/target/debug/incremental/and_gate-15qdyvimctp4g/s-gtezyskkeh-c6vmmm-ddnokbn2amcr6gx4e4m7yjrn0/work-products.bin",
+    "rust/and-gate/target/debug/incremental/and_gate-15qdyvimctp4g/s-gtezyskkeh-c6vmmm-ddnokbn2amcr6gx4e4m7yjrn0/query-cache.bin",
+    "rust/and-gate/target/debug/incremental/and_gate-15qdyvimctp4g/s-gtezyskkeh-c6vmmm-ddnokbn2amcr6gx4e4m7yjrn0/dep-graph.bin",
+    "rust/and-gate/target/debug/incremental/and_gate-15qdyvimctp4g/s-gtezyskkeh-c6vmmm-ddnokbn2amcr6gx4e4m7yjrn0/8jtxyvxl181aqmd.o",
+    "rust/and-gate/target/debug/incremental/and_gate-15qdyvimctp4g/s-gtezyskkeh-c6vmmm-ddnokbn2amcr6gx4e4m7yjrn0/4nuk7hk938p1rl3d.o",
+    "rust/and-gate/target/debug/incremental/and_gate-15qdyvimctp4g/s-gtezyskkeh-c6vmmm-ddnokbn2amcr6gx4e4m7yjrn0/4io7d6y5cvwct92q.o",
+    "rust/and-gate/target/debug/incremental/and_gate-15qdyvimctp4g/s-gtezyskkeh-c6vmmm-ddnokbn2amcr6gx4e4m7yjrn0/4ght4u5yjyaj9iv2.o",
+    "rust/and-gate/target/debug/incremental/and_gate-15qdyvimctp4g/s-gtezyskkeh-c6vmmm-ddnokbn2amcr6gx4e4m7yjrn0/4d0r70b0qhhz8t08.o",
+    "rust/and-gate/target/debug/incremental/and_gate-15qdyvimctp4g/s-gtezyskkeh-c6vmmm-ddnokbn2amcr6gx4e4m7yjrn0/3sumx5ts95c1s62b.o",
+    "rust/and-gate/target/debug/incremental/and_gate-15qdyvimctp4g/s-gtezyskkeh-c6vmmm-ddnokbn2amcr6gx4e4m7yjrn0/1ql99uy3t8y94m3y.o",
+    "build a neural network.md",
     "Attachments/Pasted image 20240213181212.png",
     "gradiant desent.md",
     "loss functions.md",
-    "build a neural network.md",
     "Attachments/Pasted image 20240213165622.png",
     "Attachments/Pasted image 20240213164721.png",
     "Attachments/Pasted image 20240213134502.png",
@@ -161,10 +172,8 @@
     "Attachments/Pasted image 20240213133424.png",
     "Attachments/Pasted image 20240212160843.png",
     "Attachments/Pasted image 20240212152126.png",
-    "Attachments/Pasted image 20240212151323.png",
     "neural network.md",
     "blogs/AND Gate using neural network.md",
-    "blogs",
     "Probability.md",
     "linear algebra.md",
     "caculus.md",
@@ -172,10 +181,6 @@
     "squeching function.md",
     "math.md",
     "general math.md",
-    "regression.md",
-    "labs/regression/Untitled.ipynb",
-    "labs/regression",
-    "labs",
-    "Attachments"
+    "regression.md"
   ]
 }
