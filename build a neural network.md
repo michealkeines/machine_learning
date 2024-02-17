@@ -147,3 +147,20 @@ and all the variabe come into place in that curve, so if we want to find the cha
 
 ![[Pasted image 20240213181212.png]]
 
+![[Pasted image 20240215174509.png]]
+
+![[Pasted image 20240215181846.png]]
+
+The gradient is nothing but a vector of partial derivatives.
+
+![[Pasted image 20240217125621.png]]
+
+for a single neuron, to get activation value, we need to use activation value from all the neurons from the previous layer
+
+![[Pasted image 20240217130348.png]]
+
+
+![[Pasted image 20240217132420.png]]
+
+learning rate r is multipled to the new weight and bias
+

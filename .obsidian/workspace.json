@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gradiant desent.md",
+                "file": "build a neural network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34b92318092e2e31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project-01.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gradiant desent.md",
+                "file": "Project-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gradiant desent.md",
+                "file": "Project-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gradiant desent.md"
+                "file": "Project-01.md"
               }
             }
           }
@@ -146,32 +159,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcac0339214ed5d8",
+  "active": "34b92318092e2e31",
   "lastOpenFiles": [
-    "rust/and-gate/target/debug/deps/and_gate-27f871e142f917ac",
-    "rust/and-gate/target/debug/incremental/and_gate-15qdyvimctp4g/s-gtezyskkeh-c6vmmm-ddnokbn2amcr6gx4e4m7yjrn0/work-products.bin",
-    "rust/and-gate/target/debug/incremental/and_gate-15qdyvimctp4g/s-gtezyskkeh-c6vmmm-ddnokbn2amcr6gx4e4m7yjrn0/query-cache.bin",
-    "rust/and-gate/target/debug/incremental/and_gate-15qdyvimctp4g/s-gtezyskkeh-c6vmmm-ddnokbn2amcr6gx4e4m7yjrn0/dep-graph.bin",
-    "rust/and-gate/target/debug/incremental/and_gate-15qdyvimctp4g/s-gtezyskkeh-c6vmmm-ddnokbn2amcr6gx4e4m7yjrn0/8jtxyvxl181aqmd.o",
-    "rust/and-gate/target/debug/incremental/and_gate-15qdyvimctp4g/s-gtezyskkeh-c6vmmm-ddnokbn2amcr6gx4e4m7yjrn0/4nuk7hk938p1rl3d.o",
-    "rust/and-gate/target/debug/incremental/and_gate-15qdyvimctp4g/s-gtezyskkeh-c6vmmm-ddnokbn2amcr6gx4e4m7yjrn0/4io7d6y5cvwct92q.o",
-    "rust/and-gate/target/debug/incremental/and_gate-15qdyvimctp4g/s-gtezyskkeh-c6vmmm-ddnokbn2amcr6gx4e4m7yjrn0/4ght4u5yjyaj9iv2.o",
-    "rust/and-gate/target/debug/incremental/and_gate-15qdyvimctp4g/s-gtezyskkeh-c6vmmm-ddnokbn2amcr6gx4e4m7yjrn0/4d0r70b0qhhz8t08.o",
-    "rust/and-gate/target/debug/incremental/and_gate-15qdyvimctp4g/s-gtezyskkeh-c6vmmm-ddnokbn2amcr6gx4e4m7yjrn0/3sumx5ts95c1s62b.o",
-    "rust/and-gate/target/debug/incremental/and_gate-15qdyvimctp4g/s-gtezyskkeh-c6vmmm-ddnokbn2amcr6gx4e4m7yjrn0/1ql99uy3t8y94m3y.o",
     "build a neural network.md",
-    "Attachments/Pasted image 20240213181212.png",
+    "Project-01.md",
+    "Attachments/Pasted image 20240217132420.png",
+    "Attachments/Pasted image 20240217130348.png",
+    "Attachments/Pasted image 20240217125621.png",
+    "rust/xor-gate/target/debug/deps/xor_gate-de4e57a3a7f29777",
+    "rust/xor-gate/target/debug/incremental/xor_gate-1s7g6nkeypthe/s-gtg7n6yorh-1ba4qby-8a6mx8u62huidrll9uzowyber/work-products.bin",
+    "rust/xor-gate/target/debug/incremental/xor_gate-1s7g6nkeypthe/s-gtg7n6yorh-1ba4qby-8a6mx8u62huidrll9uzowyber/query-cache.bin",
+    "rust/xor-gate/target/debug/incremental/xor_gate-1s7g6nkeypthe/s-gtg7n6yorh-1ba4qby-8a6mx8u62huidrll9uzowyber/iuhsbwz1nx6flbg.o",
+    "rust/xor-gate/target/debug/incremental/xor_gate-1s7g6nkeypthe/s-gtg7n6yorh-1ba4qby-8a6mx8u62huidrll9uzowyber/dep-graph.bin",
+    "rust/xor-gate/target/debug/incremental/xor_gate-1s7g6nkeypthe/s-gtg7n6yorh-1ba4qby-8a6mx8u62huidrll9uzowyber/a3mut5fr1rz1i7b.o",
+    "rust/xor-gate/target/debug/incremental/xor_gate-1s7g6nkeypthe/s-gtg7n6yorh-1ba4qby-8a6mx8u62huidrll9uzowyber/2xwgkpprrqkp82v5.o",
+    "rust/xor-gate/target/debug/incremental/xor_gate-1s7g6nkeypthe/s-gtg7n6yorh-1ba4qby-8a6mx8u62huidrll9uzowyber/1oci7hkqkgzuxvne.o",
+    "rust/xor-gate/target/debug/incremental/xor_gate-1s7g6nkeypthe/s-gtg7n6yorh-1ba4qby-8a6mx8u62huidrll9uzowyber/1hu08l49450xzgkv.o",
+    "rust/xor-gate/target/debug/incremental/xor_gate-1s7g6nkeypthe/s-gtg7n6yorh-1ba4qby-8a6mx8u62huidrll9uzowyber/1gbjzlhobl0822en.o",
+    "Attachments/Pasted image 20240215181846.png",
+    "Attachments/Pasted image 20240215174509.png",
     "gradiant desent.md",
+    "Attachments/Pasted image 20240213181212.png",
     "loss functions.md",
     "Attachments/Pasted image 20240213165622.png",
     "Attachments/Pasted image 20240213164721.png",
     "Attachments/Pasted image 20240213134502.png",
     "Attachments/Pasted image 20240213134443.png",
-    "Attachments/Pasted image 20240213134258.png",
-    "Attachments/Pasted image 20240213134057.png",
-    "Attachments/Pasted image 20240213133424.png",
-    "Attachments/Pasted image 20240212160843.png",
-    "Attachments/Pasted image 20240212152126.png",
     "neural network.md",
     "blogs/AND Gate using neural network.md",
     "Probability.md",
