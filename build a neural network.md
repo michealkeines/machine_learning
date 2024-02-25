@@ -164,3 +164,19 @@ for a single neuron, to get activation value, we need to use activation value fr
 
 learning rate r is multipled to the new weight and bias
 
+![[Pasted image 20240225135940.png]]
+
+so overshooting doesnt me mean overfitting
+
+overshooting means possible missing the minima, and oversteping over the minima
+
+![[Pasted image 20240225143103.png]]
+
+we also add penality for every loss, based on a constant value
+
+![[Pasted image 20240225145032.png]]
+
+dropping out random nodes during training
+
+![[Pasted image 20240225145839.png]]
+

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project-01.md",
+                "file": "build a neural network.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project-01.md",
+                "file": "build a neural network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project-01.md",
+                "file": "build a neural network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project-01.md"
+                "file": "build a neural network.md"
               }
             }
           }
@@ -161,8 +161,12 @@
   },
   "active": "34b92318092e2e31",
   "lastOpenFiles": [
-    "build a neural network.md",
+    "Attachments/Pasted image 20240225145839.png",
+    "Attachments/Pasted image 20240225145032.png",
+    "Attachments/Pasted image 20240225143103.png",
+    "Attachments/Pasted image 20240225135940.png",
     "Project-01.md",
+    "build a neural network.md",
     "Attachments/Pasted image 20240217132420.png",
     "Attachments/Pasted image 20240217130348.png",
     "Attachments/Pasted image 20240217125621.png",
@@ -182,9 +186,6 @@
     "Attachments/Pasted image 20240213181212.png",
     "loss functions.md",
     "Attachments/Pasted image 20240213165622.png",
-    "Attachments/Pasted image 20240213164721.png",
-    "Attachments/Pasted image 20240213134502.png",
-    "Attachments/Pasted image 20240213134443.png",
     "neural network.md",
     "blogs/AND Gate using neural network.md",
     "Probability.md",
