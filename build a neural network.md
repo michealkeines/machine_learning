@@ -180,3 +180,8 @@ dropping out random nodes during training
 
 ![[Pasted image 20240225145839.png]]
 
+in linear neural netoworks, the ouput is generated from global view of the input
+
+
+convolution layers are a small subset of neighboring input values connected to one output value
+
